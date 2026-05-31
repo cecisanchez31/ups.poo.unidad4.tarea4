@@ -12,6 +12,7 @@ Descripción del proyecto
 Sistema en Java para gestionar contenido audiovisual, aplicando POO, SOLID y pruebas unitarias con JUnit 5.
   
   *Mejoramiento del sistema de "Contenido Audiovisual" con manejo de archivos, añadiendo datos sobre Películas, Series de TV, 
+   
    Documentales, Actores, Temporadas e Investigadores
   * Aplicación de principios de código limpio, refactorización, y SOLID para mejorar la mantenibilidad y calidad del código.
   * Implementación de un patrón de diseño para separar el modelo, la vista y el controlador (MVC).
